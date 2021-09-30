@@ -1,0 +1,6 @@
+Plugin Name -- BlockForm
+Text domain -- blockform
+Function prefix -- blockform
+Class prefix -- {{Core_Prefix}}
+Root namespace -- BlockForm
+Hook Prefix -- blockform
